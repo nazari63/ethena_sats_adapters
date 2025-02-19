@@ -76,3 +76,4 @@ that is based on API calls.
 non-cached implementation included only for reference - new integrations should use the cached approach for better efficiency.
 - [PendleYTIntegration](integrations/pendle_yt_integration.py): (Legacy Example) A basic integration showing Pendle YT staking tracking. Note: This is a non-cached 
 implementation included only for reference - new integrations should use the cached approach for better efficiency.
+This project is a demonstration of blockchain technology and smart contract integration.
